@@ -1,4 +1,11 @@
-### Hello 👋
+<div align=center>	
+
+  [![My github stats](https://github-readme-stats.vercel.app/api?username=dwc05101)](https://github.com/anuraghazra/github-readme-stats)	
+
+</div>
+
+
+### Hello I'm Gwangjo Gong👋
 
 ---
 I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
