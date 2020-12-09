@@ -11,9 +11,9 @@
 I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
  
- 🌱 I’m currently learning DialogFlow
+ 🌱 I’m currently learning NestJS, Svelte
  
- :books: I want to learn about NLP.
+ :books: I want to learn about ML.
  
  
  💬 Ask me about Full Stack Development, and any Tech-related stuff.
