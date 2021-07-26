@@ -49,6 +49,6 @@ I am a Full-stack  Web Developer who is exploring Cloud :cloud: while facilitati
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dwc05101&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GwangjoGong&show_icons=true&hide_border=true)
 
 ---
