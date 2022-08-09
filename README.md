@@ -5,10 +5,8 @@
 </div>
 
 
-### Hello I'm Gwangjo Gong👋
+Hello I'm Gwangjo Gong👋
 
-
----
 
 
 ### Tech & Tools Preference
